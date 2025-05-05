@@ -1,4 +1,4 @@
-import '../styles'
+import '../styles/globals.css'
 import { ConfigProvider } from 'antd'
 
 function MyApp({ Component, pageProps }) {
